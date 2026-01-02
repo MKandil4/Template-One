@@ -1,44 +1,55 @@
-Template One
+# Template One
 
 This is a modern, responsive website template built as a front-end practice project.
 The project focuses on clean layout structure, responsive design, and applying advanced CSS techniques.
 
-🔧 Built With
+-------
+
+## 🔧 Built With
 
 ✔️ HTML
 ✔️ CSS
 
+-------
+
 🧠 Techniques & Concepts Practiced
 
-Semantic HTML structure for better readability and SEO.
+🔸 Semantic HTML structure for better readability and SEO.
 
-CSS Flexbox for layout alignment and responsive sections.
+🔸 CSS Flexbox for layout alignment and responsive sections.
 
-Responsive design using media queries.
+🔸 Responsive design using media queries.
 
-Custom typography using Google Fonts.
+🔸 Custom typography using Google Fonts.
 
-Icons integration using Font Awesome.
+🔸 Icons integration using Font Awesome.
 
-Smooth scrolling with scroll-behavior: smooth.
+🔸 Smooth scrolling with scroll-behavior: smooth.
 
-Advanced positioning techniques (relative, absolute) for layout control.
+🔸 Advanced positioning techniques (relative, absolute) for layout control.
 
-Hover effects and transitions for better user interaction.
+🔸 Hover effects and transitions for better user interaction.
 
-Consistent spacing, alignment, and reusable CSS classes.
+🔸 Consistent spacing, alignment, and reusable CSS classes.
 
-Clean folder structure and organized assets.
+🔸 Clean folder structure and organized assets.
 
-🚀 Live Preview
+------
+
+## 🚀 Live Preview
 
 🔗 https://mkandil4.github.io/Template-One/
 
-📂 Source Code
+------
+
+## 📂 Source Code
 
 🔗 https://github.com/MKandil4/Template-One
 
+------
+
 📂 Folder Structure
+
 Template-One/
 ├── index.html
 ├── css/
@@ -46,15 +57,18 @@ Template-One/
 ├── images/
 └── webfonts/
 
+------
+
 👤 Author
 
-Mohamed Kandil
+** Mohamed Kandil **
 
 💻 GitHub: https://github.com/MKandil4
+💼 LinkedIn: (https://www.linkedin.com/in/mkandil4)
 
-💼 LinkedIn: ()
+------
 
-💬 Feedback
+## 💬 Feedback
 
-Feedback, suggestions, and improvements are always welcome.
-Feel free to open an issue or reach out — happy to learn and improve! 🙌
+Feel free to leave feedback, issues, or suggestions to help improve the project! 🫶
+
